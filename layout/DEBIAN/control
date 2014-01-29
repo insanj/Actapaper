@@ -1,0 +1,11 @@
+Package: libactivator.actapaper
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.0.1
+Description: Send your pasteboard to Instapaper!
+ Save copied links to Instapaper with an Activator action.
+Name: Actapaper
+Depends: mobilesubstrate, libactivator
+Maintainer: insanj <me@insanj.com>
+Author: Julian (insanj) Weiss

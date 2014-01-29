@@ -1,0 +1,10 @@
+{
+    entry = {
+		bundle = ActaPreferences;
+		cell = PSLinkCell;
+		detail = ActaPreferencesListController;
+		icon = icon.png;
+		isController = 1;
+		label = "Actapaper";
+    };
+}
