@@ -16,7 +16,7 @@
 }
 
 -(void)sendToAPI{
-	saveView = [[UIAlertView alloc] initWithTitle:@"Actapaper" message:@"\nSaving...\n" delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:nil];
+	saveView = [[UIAlertView alloc] initWithTitle:@"Actapaper" message:@"Saving...\n" delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:nil];
 	[saveView show];
 
 	NSDictionary *settings = [NSDictionary dictionaryWithContentsOfFile:[NSHomeDirectory() stringByAppendingPathComponent:@"/Library/Preferences/libactivator.actapaper.plist"]];

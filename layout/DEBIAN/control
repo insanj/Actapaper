@@ -9,3 +9,4 @@ Name: Actapaper
 Depends: mobilesubstrate, libactivator
 Maintainer: insanj <me@insanj.com>
 Author: Julian (insanj) Weiss
+Icon: file:///Library/Activator/Listeners/libactivator.actapaper/Icon-huge.png
